@@ -1,6 +1,6 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Diego Marin Banner](https://github.com/user-attachments/assets/c1aac731-3c65-400f-ac64-b727fe78ca2e)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Diego Marin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I improve my English, study software architecture, and enjoy mentoring others in clean code and best development practices.\
 💬 &nbsp;Feel free to reach out for technical discussions, backend architecture guidance, or collaboration on open-source projects.\
 ✉️ &nbsp; You can shoot me an email at devdmarin@gmail.com\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1DCMdjs2EGpqXyHTd3JIk9595k8lo0YQb/view?usp=drive_link)  for more details about my experience. I’m always open to feedback and new opportunities!
+📄 &nbsp;Please have a look at my [Résumé/CV](https://drive.google.com/file/d/1DCMdjs2EGpqXyHTd3JIk9595k8lo0YQb/view?usp=drive_link)  for more details about my experience. I’m always open to feedback and new opportunities!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
