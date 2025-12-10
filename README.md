@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am currently working at Buk as a Backend Developer, with more than 8 years of experience building scalable and high-performance applications.\
+👨‍💻 &nbsp;I'm a backend developer with over 8 years of experience building scalable, high-performance applications..\
 💡 &nbsp;I like to explore new technologies and create efficient software solutions that transform business needs into robust systems.\
 🎓 &nbsp;I studied Information Systems Technology at Universidad del Valle (Colombia) and continuously train myself in agile methodologies, design patterns, and database optimization.\
 🌱 &nbsp;I'm currently learning more about Ruby on Rails, Jenkins, CI/CD, Apache Spark, ETL pipelines, and Advanced SQL to strengthen my backend and data engineering skills.\
