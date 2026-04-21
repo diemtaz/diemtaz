@@ -13,10 +13,7 @@
 ✍️ &nbsp;In my free time, I improve my English, study software architecture, and enjoy mentoring others in clean code and best development practices.\
 💬 &nbsp;Feel free to reach out for technical discussions, backend architecture guidance, or collaboration on open-source projects.\
 ✉️ &nbsp; You can shoot me an email at devdmarin@gmail.com\
-📄 &nbsp;Please have a look at my 
-<a href="https://drive.google.com/file/d/1DCMdjs2EGpqXyHTd3JIk9595k8lo0YQb/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-Résumé/CV
-</a> 
+📄 Please have a look at my [Résumé/CV ↗](https://drive.google.com/file/d/1DCMdjs2EGpqXyHTd3JIk9595k8lo0YQb/view)
 for more details about my experience. I’m always open to feedback and new opportunities!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
